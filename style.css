@@ -1,0 +1,30 @@
+body{
+    background-image: url("3.webp");
+    text-align: center;
+}
+.heading{
+    font-size:20px;
+    width:100%;
+    margin:0px;
+    box-shadow:3px 4px 9px rgb(96, 93, 93);
+    
+}
+.note{
+    font-size:17px;
+    color:black;
+    word-wrap: break-word;
+}
+.footer{
+    position:fixed;
+    bottom:0;
+    left:0;
+    width:100%;
+   font-size:16px ;
+}
+canvas{
+        border:10px solid rgb(0, 0, 108);
+        border-radius:20px;
+        background-color: grey;
+        box-shadow:10px 5px 6px rgb(11, 241, 249);
+        margin-left:500px;
+    }
